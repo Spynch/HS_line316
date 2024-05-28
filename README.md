@@ -94,7 +94,7 @@
  
 processing_input_5_carousel_init - карусель в исходном состоянии 
  
-processing_input_6_hole_detected - дырка сверху шайбы 
+processing_input_6_hole_detected - отверстие на грани шайбы 
  
 processing_input_1_workpiece_detected - шайба на определении цвета 
  
